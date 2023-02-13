@@ -118,11 +118,5 @@ public class MapViewerModelImplTest {
         assertEquals(1, mapViewerModel.getRecentMapsCount());
     }
 
-    @Test
-    public void recentMapsLoadedFromSP(){
-        mapViewerModel = MapViewerModelFactory.produceMapViewerModel(context);
-       /// mapViewerModel.save
-
-    }
 
 }
