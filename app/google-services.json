@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614914305429",
+    "project_id": "ohdm-1a15f",
+    "storage_bucket": "ohdm-1a15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614914305429:android:aa12a747462f250122da9c",
+        "android_client_info": {
+          "package_name": "com.ohdmmapviewerapp.ohdmmapviewerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614914305429-k009pm204hum5tftfftabrst3lafe2sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVFOKDmP651BYJxBo7tEmSVsuUg8cl-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614914305429-k009pm204hum5tftfftabrst3lafe2sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fab_button" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/turquoise</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">12pt</item>
+    </style>
+
+
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView" >
+        <!-- Query Text Color -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <!-- Hint Color -->
+        <item name="android:textColorHint">@color/white</item>
+        <!-- Icon Color -->
+        <item name="android:tint">@color/white</item>
+
+        <item name="android:background">@color/lightturquoise</item>
+
+        <item name="android:radius">10dp</item>
+
+
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar" >
+        <!-- Query Text Color -->
+        <item name="android:textColorPrimary">@color/lightturquoise</item>
+        <!-- Hint Color -->
+        <item name="android:textColorHint">@color/white</item>
+        <!-- Icon Color -->
+        <item name="android:tint">@color/lightturquoise</item>
+
+
+    </style>
+
+
+</resources>
